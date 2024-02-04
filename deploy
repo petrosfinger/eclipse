@@ -1,6 +1,5 @@
-۱- نیاز به یک والت اتریومم دارید که پرایویسی کی رو کپی کنید و توش هم فاست اتریوم سپولیا داشته باشید  
-get sepolia faucet (need eth sepolia in your wallet)
-
+1.get sepolia faucet (need eth sepolia in your wallet)
+2.
 sudo apt install npm
 
 npm install -g yarn 
@@ -55,7 +54,7 @@ cd testnet-deposit
 yarn install
 
 
-تو دستور پایین پابلیک ادرس سولانا و پرایویت کی متامسک رو که توش سپولیا زدید رو جایگزین میکنین 
+//تو دستور پایین پابلیک ادرس سولانا و پرایویت کی متامسک رو که توش سپولیا زدید رو جایگزین میکنین 
 
 
 
@@ -80,7 +79,7 @@ cd example-helloworld
 npm install
 
 
-کد پایین ممکنه طول بکشه حتی ۵ دقیقه پس ت ااتمام صبر کنید
+//کد پایین ممکنه طول بکشه حتی ۵ دقیقه پس ت ااتمام صبر کنید
 
 npm run build:program-rust
 
